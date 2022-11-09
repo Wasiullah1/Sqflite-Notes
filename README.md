@@ -1,16 +1,3 @@
-# sqlflutter
+Local Storage Notes App Flutter as well as Todo app (add, update and delete)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Picsart_22-11-10_02-48-05-674](https://user-images.githubusercontent.com/64031326/200949453-1b93cf49-4648-47e8-a8ea-2afbd4b7c7ed.jpg)
